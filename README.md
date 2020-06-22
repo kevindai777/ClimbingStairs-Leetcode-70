@@ -3,6 +3,6 @@
 Leetcode Question 70 (Easy)
 
 Techniques Used in Question:
-Fibonacci
+Dynamic-Programming, Math (Fibonacci)
 
 [Link to Question](https://leetcode.com/problems/climbing-stairs/)
