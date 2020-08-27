@@ -5,7 +5,7 @@ let n = 3
 
 
 //O(n) solution where n is the number of stairs to climb
-//We use dynamic programming to memoize and update the number of stairs
+//We use dynamic programming to memoize and update the number of ways to climb
 
 //We realize that as the number of stairs grows, the number of ways to climb
 //is the sum of the previous two terms
