@@ -1,4 +1,4 @@
-//Java solution
+//Java Solution
 
 class Solution {
     public int climbStairs(int n) {
